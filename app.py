@@ -19,7 +19,6 @@ import csv
 import copy
 import argparse
 import itertools
-import serial
 import time
 from collections import Counter
 from collections import deque
